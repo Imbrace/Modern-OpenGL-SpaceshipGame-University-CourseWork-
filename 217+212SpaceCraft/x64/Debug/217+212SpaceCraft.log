@@ -1,0 +1,57 @@
+﻿  Booster.cpp
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\include\GameObjects\Headers\Booster.h(21): warning C4091: 'static ': ignored on left of 'Booster::object' when no variable is declared
+  Main.cpp
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\include\GameObjects\Headers\Booster.h(22): warning C4091: 'static ': ignored on left of 'Booster::buffer' when no variable is declared
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\include\GameObjects\Headers\Track.h(20): warning C4091: 'static ': ignored on left of 'Track::object' when no variable is declared
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\include\GameObjects\Headers\Track.h(21): warning C4091: 'static ': ignored on left of 'Track::buffer' when no variable is declared
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\include\GameObjects\Headers\SpaceCraft.h(38): warning C4091: 'static ': ignored on left of 'SpaceCraft::object' when no variable is declared
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\include\GameObjects\Headers\SpaceCraft.h(39): warning C4091: 'static ': ignored on left of 'SpaceCraft::buffer' when no variable is declared
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\include\GameObjects\Headers\UFO.h(21): warning C4091: 'static ': ignored on left of 'UFO::object' when no variable is declared
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\include\GameObjects\Headers\UFO.h(22): warning C4091: 'static ': ignored on left of 'UFO::buffer' when no variable is declared
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\include\GameObjects\Headers\Booster.h(21): warning C4091: 'static ': ignored on left of 'Booster::object' when no variable is declared
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\include\GameObjects\Headers\Booster.h(22): warning C4091: 'static ': ignored on left of 'Booster::buffer' when no variable is declared
+  BallCollider.cpp
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameEngine\Main.cpp(19,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameEngine\Source\BallCollider.cpp(31,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameEngine\Source\BallCollider.cpp(32,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  GameEngine.cpp
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameEngine\Source\BallCollider.cpp(24,8): warning C4101: 'DistanceY': unreferenced local variable
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\include\GameObjects\Headers\SpaceCraft.h(38): warning C4091: 'static ': ignored on left of 'SpaceCraft::object' when no variable is declared
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\include\GameObjects\Headers\SpaceCraft.h(39): warning C4091: 'static ': ignored on left of 'SpaceCraft::buffer' when no variable is declared
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameEngine\Source\GameEngine.cpp(360,23): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameEngine\Source\GameEngine.cpp(360,23): warning C4244:         with
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameEngine\Source\GameEngine.cpp(360,23): warning C4244:         [
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameEngine\Source\GameEngine.cpp(360,23): warning C4244:             T=float
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameEngine\Source\GameEngine.cpp(360,23): warning C4244:         ]
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameEngine\Source\GameEngine.cpp(361,23): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameEngine\Source\GameEngine.cpp(361,23): warning C4244:         with
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameEngine\Source\GameEngine.cpp(361,23): warning C4244:         [
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameEngine\Source\GameEngine.cpp(361,23): warning C4244:             T=float
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameEngine\Source\GameEngine.cpp(361,23): warning C4244:         ]
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameEngine\Source\GameEngine.cpp(485,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameEngine\Source\GameEngine.cpp(486,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameEngine\Source\GameEngine.cpp(491,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameEngine\Source\GameEngine.cpp(492,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameEngine\Source\GameEngine.cpp(515,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  GameObject.cpp
+  SpaceCraft.cpp
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameEngine\Source\GameEngine.cpp(516,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\include\GameObjects\Headers\SpaceCraft.h(38): warning C4091: 'static ': ignored on left of 'SpaceCraft::object' when no variable is declared
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\include\GameObjects\Headers\SpaceCraft.h(39): warning C4091: 'static ': ignored on left of 'SpaceCraft::buffer' when no variable is declared
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameObjects\Source Files\SpaceCraft.cpp(92,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameObjects\Source Files\SpaceCraft.cpp(108,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Sphere.cpp
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameObjects\Source Files\SpaceCraft.cpp(112,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\include\GameObjects\Headers\SpaceCraft.h(38): warning C4091: 'static ': ignored on left of 'SpaceCraft::object' when no variable is declared
+  Track.cpp
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\include\GameObjects\Headers\SpaceCraft.h(39): warning C4091: 'static ': ignored on left of 'SpaceCraft::buffer' when no variable is declared
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\include\GameObjects\Headers\Track.h(20): warning C4091: 'static ': ignored on left of 'Track::object' when no variable is declared
+  UFO.cpp
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\include\GameObjects\Headers\Track.h(21): warning C4091: 'static ': ignored on left of 'Track::buffer' when no variable is declared
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\include\GameObjects\Headers\UFO.h(21): warning C4091: 'static ': ignored on left of 'UFO::object' when no variable is declared
+  getbmp.cpp
+  Reader.cpp
+  Shader.cpp
+  Generating Code...
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\include\GameObjects\Headers\UFO.h(22): warning C4091: 'static ': ignored on left of 'UFO::buffer' when no variable is declared
+  217+212SpaceCraft.vcxproj -> C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\x64\Debug\217+212SpaceCraft.exe

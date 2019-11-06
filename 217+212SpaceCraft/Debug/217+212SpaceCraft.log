@@ -1,0 +1,24 @@
+﻿  Booster.cpp
+  Main.cpp
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Booster.cpp(2,10): fatal error C1083: Cannot open include file: 'GameObjects\Headers\Booster.h': No such file or directory
+  BallCollider.cpp
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameEngine\Main.cpp(10,10): fatal error C1083: Cannot open include file: 'GameEngine/Headers/GameEngine.h': No such file or directory
+  GameEngine.cpp
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameEngine\Source\BallCollider.cpp(1,10): fatal error C1083: Cannot open include file: 'GameEngine\Headers\BallCollider.h': No such file or directory
+  GameObject.cpp
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameEngine\Source\GameEngine.cpp(4,10): fatal error C1083: Cannot open include file: 'GameEngine\Headers\GameEngine.h': No such file or directory
+  SpaceCraft.cpp
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameObjects\Source Files\GameObject.cpp(1,10): fatal error C1083: Cannot open include file: 'GameObjects/Headers\GameObject.h': No such file or directory
+  Sphere.cpp
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameObjects\Source Files\SpaceCraft.cpp(4,10): fatal error C1083: Cannot open include file: 'GameObjects\Headers\SpaceCraft.h': No such file or directory
+  Track.cpp
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameObjects\Source Files\Sphere.cpp(1,10): fatal error C1083: Cannot open include file: 'GameObjects\Headers\Sphere.h': No such file or directory
+  UFO.cpp
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameObjects\Source Files\Track.cpp(1,10): fatal error C1083: Cannot open include file: 'GameObjects\Headers\Track.h': No such file or directory
+  getbmp.cpp
+  Reader.cpp
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\GameObjects\Source Files\UFO.cpp(2,10): fatal error C1083: Cannot open include file: 'GameObjects\Headers\UFO.h': No such file or directory
+  Shader.cpp
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\Reader\Reader.cpp(1,10): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
+  Generating Code...
+C:\Users\Jaimz\Desktop\Download Just This One\Download Just This One\217+212SpaceCraft\Include\Shaders\Shader.cpp(10,12): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
